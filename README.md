@@ -1,16 +1,16 @@
-## Hi there 👋
+## my name is Maika
 
-<!--
-**httpsworldview/httpsworldview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19 year old developer from the United States. I'm currently
+working on
+[OpenMeters](https://github.com/httpsworldview/openmeters/), a free,
+fast, and professional audio metering suite for Linux. I also have a
+[website](https://maika.software/) where I post my thoughts and other
+things. My contact information is there if you need to reach me.
 
-Here are some ideas to get you started:
+## quick facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- preferred editor: Emacs
+- favorite languages:
+  1. C
+  2. Rust
+- preferred linux distro: Arch
