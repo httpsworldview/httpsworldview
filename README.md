@@ -13,4 +13,6 @@ things. My contact information is there if you need to reach me.
 - favorite languages:
   1. C
   2. Rust
-- preferred linux distro: Arch
+- ~~preferred~~ **the best** linux distro: **Gentoo**
+
+![larry](https://wiki.gentoo.org/images/thumb/3/3d/Larry_color.svg/298px-Larry_color.svg.png)
