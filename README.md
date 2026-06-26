@@ -5,7 +5,7 @@ working on
 [OpenMeters](https://github.com/httpsworldview/openmeters/), a free,
 fast, and professional audio metering suite for Linux. I also have a
 [website](https://maika.software/) where I post my thoughts and other
-things. My contact information is there if you need to reach me.
+things.
 
 ## quick facts
 
@@ -13,6 +13,8 @@ things. My contact information is there if you need to reach me.
 - favorite languages:
   1. C
   2. Rust
-- ~~preferred~~ **the best** linux distro: **Gentoo**
+- favorite Linux distro: Gentoo
 
-![larry](https://wiki.gentoo.org/images/thumb/3/3d/Larry_color.svg/298px-Larry_color.svg.png)
+## contact me
+
+You can reach me via E-mail at <httpworldview@gmail.com>.
