@@ -1,6 +1,6 @@
 ## my name is Maika
 
-I'm a 19 year old developer from the United States. I'm currently
+I'm a 20 year old developer from the United States. I'm currently
 working on
 [OpenMeters](https://github.com/httpsworldview/openmeters/), a free,
 fast, and professional audio metering suite for Linux. I also have a
